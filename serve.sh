@@ -1,0 +1,1 @@
+./bin/dockerhub_run.sh

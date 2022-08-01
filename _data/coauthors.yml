@@ -32,3 +32,7 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Antonucci":
+- firstname: ["Linda", "Linda A.","L. A.", "Linda A"]
+  url: https://en.wikipedia.org/wiki/Linda
