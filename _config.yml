@@ -248,6 +248,12 @@ filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, select
 # Maximum number of authors to be shown, other authors will be visible on hover, leave blank to show all authors
 max_author_limit: 7
 
+
+jekyll_get_json:
+  - data: gscholar
+    json: "https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=AREhBXYAAAAJ&view_op=list_works&sortby=pubdate"
+
+
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------

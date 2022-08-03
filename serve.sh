@@ -1,1 +1,2 @@
-./bin/dockerhub_run.sh
+#./bin/dockerhub_run.sh
+docker-compose up
