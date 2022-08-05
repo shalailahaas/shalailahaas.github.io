@@ -2,28 +2,34 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Shalaila S. Haas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 19th February 1989
     - name: Languages
-      value: English, German
+      value: English, German, Tagalog
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Medical Research
+      institution: Ludwig-Maximilians University, Munich, Germany
+      year: 2019
+      description:
+        - Determine the efficacy of cognitive training in patients with recent onset psychsis
+        - Develop a machine learning model that could monitor treatment response to the cognitive training 
+        - title: Mentors
+          contents:
+            - Lana Kambeitz-Ilankovic
+            - Nikolaos Koutsouleris
+    - title: Master of Science in Neuro-Cognitive Psychology
+      institution: Ludwig-Maximilians University, Munich, Germany
+      year: 2015
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor of Arts in Psychology
+      institution: University of California, Berkeley, Berkeley, California, USA
+      year: 2012
       description:
         - Description 1.
         - Description 2.
