@@ -81,6 +81,10 @@
   - firstname: ["Sophia", "S.", "S"]
     url: https://scholar.google.com/citations?user=iRcTmwkAAAAJ&hl=en&oi=ao
 
+"Reichenberg":
+  - firstname: ["Abraham", "A.", "A", "Avi", "Avraham"]
+    url: https://profiles.mountsinai.org/avraham-reichenberg
+
 "Kahn":
   - firstname: ["René S.", "Rene S.", "R S", "R. S.", "Rene S", "René S"]
     url: https://scholar.google.com/citations?user=gMhW8hoAAAAJ&hl=en&oi=ao    
@@ -148,3 +152,11 @@
 "Weiske":
   - firstname: ["Johanna", "J.", "J"]
     url: https://www.researchgate.net/profile/Johanna-Weiske
+
+"Ge":
+  - firstname: ["Ruiyang", "R.", "R"]
+    url: https://www.researchgate.net/profile/Ruiyang-Ge
+
+"Sanford":
+  - firstname: ["Nicole", "N.", "N"]
+    url: https://www.researchgate.net/profile/Nicole-Sanford
