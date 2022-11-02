@@ -13,7 +13,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
----
+---
 
 Shalaila S. Haas is a neuroscientist completing a Postdoctoral Fellowship in the Department of Psychiatry at the Icahn School of Medicine at Mount Sinai in New York City. After a clinically-oriented B.A. in Psychology from U.C. Berkeley and a methodologically-focused M.Sc. in Neuro-Cognitive Psychology, from the Ludwig-Maximilians University (LMU) in Munich, Germany she went on to receive a Ph.D. in Medical Research from the LMU while simultaneously having received interdisciplinary training from the International Max Planck Research School in Translational Psychiatry.
 
