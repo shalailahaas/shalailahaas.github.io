@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was invited by Dr. Lana Kambeitz-Ilaknovic to give three guest lectures for the course "Introduction to multivariate and neuroimaging methods."
+title: I was invited by Dr. Lana Kambeitz-Ilaknovic to give three guest lectures for the Master's-level course "Introduction to multivariate and neuroimaging methods."
 date: 2022-08-31 16:11:00-0400
 inline: false
 ---
