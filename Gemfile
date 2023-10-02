@@ -12,12 +12,11 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-get-json'
     gem 'jemoji'
+    gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'jekyll-get-json'
-    gem 'jekyll-remote-include'
-    gem 'htmlbeautifier'
 end
 group :other_plugins do
     gem 'httparty'
