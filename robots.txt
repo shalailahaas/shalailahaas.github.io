@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://shalailahaas.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://shalailahaas.github.io/sitemap.xml
