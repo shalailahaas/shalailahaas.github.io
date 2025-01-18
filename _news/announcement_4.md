@@ -7,7 +7,7 @@ inline: false
 
 My abstract investigating the clinical utility of combining linguistic features with cognition to identify patients with schizophrenia and individuals at-risk for psychosis was among the top 5% of posters nominated as a Poster Finalist. 
 
-The <a href="https://www.cpcourse.org/">Computational Psychiatry Course</a> aims to provide scientists and clinicians studying mental disorders with tools to understand, build, analyze, and critically evaluate computational models. Topics range from reinforcement learning to Baesian inference to machine learning. 
+The Computational Psychiatry Course aims to provide scientists and clinicians studying mental disorders with tools to understand, build, analyze, and critically evaluate computational models. Topics range from reinforcement learning to Baesian inference to machine learning. 
 
 During the course, I had the opportunity to present my work investigating the clinical utility of combining linguistic features with cognition to identify patients across the psychosis spectrum. 
 

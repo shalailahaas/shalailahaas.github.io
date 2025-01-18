@@ -7,8 +7,8 @@ subtitle: Assistant Professor — Department of Psychiatry — Icahn School of M
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: true #false # crops the image to make it circular
-  address: <br>  
+  image_circular: true # crops the image to make it circular
+  more_info: >
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

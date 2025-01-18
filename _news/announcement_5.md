@@ -5,7 +5,7 @@ date: 2022-08-31 16:11:00-0400
 inline: false
 ---
 
-I was invited to give three guest lectures for the WP4 course on "Introduction to multivariate and neuroimaging methods" within the Master's in <a href="https://www.psy.lmu.de/ncp/curriculum/general_course/index.html">Neuro-Cognitive Psychology</a> at the Ludwig Maximilian University. 
+I was invited to give three guest lectures for the WP4 course on "Introduction to multivariate and neuroimaging methods" within the Master's in <a href="https://www.psy.lmu.de/ncp/curriculum/course_requirements/index.html">Neuro-Cognitive Psychology</a> at the Ludwig Maximilian University. 
 
 
 ### Course description and topics:
