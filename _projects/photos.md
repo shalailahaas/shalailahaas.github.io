@@ -22,9 +22,7 @@ related_publications: false
 </div>
 <div class="caption">
     Budapest.
-</div
-
-
+</div>
 
 
 <div class="row justify-content-sm-center">
@@ -36,7 +34,7 @@ related_publications: false
     </div>
 </div>
 <div class="caption">
-    Budapest
+    Budapest.
 </div>
 
 
