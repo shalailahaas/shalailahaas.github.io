@@ -49,7 +49,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: false
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 bib_search: true
 
 # Dimensions
@@ -65,29 +65,8 @@ serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: true # Include Schema.org in the HTML head
 og_image: prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-
-github_username: shalailahaas # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: shalailahaas # your Twitter handle
-linkedin_username: shalailahaas # your LinkedIn user name
-scholar_userid: AREhBXYAAAAJ # your Google Scholar ID
-orcid_id: 0000-0003-1385-1050 # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: Shalaila-Haas # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: https://centilebrain.org/#/team # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
-stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -652,21 +631,21 @@ third_party_libraries:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  ##- data: resume
-  ##  json: assets/json/resume.json # it can also be an url
+  - data: resume
+    json: assets/json/resume.json # it can also be an url
   - data: gscholar
     json: "https://cse.bth.se/~fer/googlescholar-api/googlescholar.php?user=AREhBXYAAAAJ&view_op=list_works&sortby=pubdate"
 
-##jsonresume:
-  #- basics
-  #- work
-  #- education
-  #- publications
-  #- projects
-  #- volunteer
-  #- awards
-  #- certificates
-  #- skills
-  #- languages
-  #- interests
-  #- references
+jsonresume:
+  - basics
+  - work
+  - education
+  - publications
+  - projects
+  - volunteer
+  - awards
+  - certificates
+  - skills
+  - languages
+  - interests
+  - references

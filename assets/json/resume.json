@@ -1,0 +1,76 @@
+{
+    "basics": {
+      "name": "Shalaila S. Haas",
+      "Appointment": "Assistant Professor",
+      "email": "shalaila.haas@mssm.edu",
+      "url": "https://linkedin.com/in/shalailahaas"
+    },
+    "work": [
+      {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "position": "Assistant Professor",
+        "location": "New York, NY, USA",
+        "startDate": "2024-10-01",
+        "summary": "Assistant Professor — Department of Psychiatry — Icahn School of Medicine at Mount Sinai",
+        "highlights": [
+          "Leads the Multidimensional Insights into Neuropsychiatric Disorders (MIND) Lab",
+          "Researches machine-learning-based links between behavior and neural signatures to improve prognosis and treatment in psychosis spectrum disorders"
+        ]
+      },
+      {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "position": "Instructor",
+        "location": "New York, NY, USA",
+        "startDate": "2022-11-01",
+        "endDate": "2024-09-30",
+        "highlights": [
+          "Led a longitudinal project on spatially differentiated accelerated brain ageing in schizophrenia"
+        ]
+      },
+      {
+        "name": "Icahn School of Medicine at Mount Sinai",
+        "position": "Postdoctoral Fellow",
+        "location": "New York, NY, USA",
+        "startDate": "2019-08-01",
+        "endDate": "2023-03-31",
+        "highlights": [
+          "Applied multimodal neuroimaging and machine learning to parse heterogeneity in clinical populations",
+          "Investigated neural mechanisms underlying cognition and language dysfunction in individuals at risk for psychosis"
+        ]
+      },
+      {
+        "name": "Ludwig Maximilian University of Munich",
+        "position": "Lecturer",
+        "location": "Munich, Germany",
+        "startDate": "2022-01-01",
+        "summary": "Lecturer (Master’s-level course WP4 — Introduction to multivariate and neuroimaging methods)"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ludwig Maximilian University of Munich",
+        "area": "Medical Research (Translational Psychiatry)",
+        "location": "Munich, Germany",
+        "studyType": "Ph.D.",
+        "startDate": "2015-10-01",
+        "endDate": "2019-07-01"
+      },
+      {
+        "institution": "Ludwig Maximilian University of Munich",
+        "area": "Neuro-Cognitive Psychology",
+        "location": "Munich, Germany",
+        "studyType": "M.S.",
+        "startDate": "2013-10-01",
+        "endDate": "2015-07-01"
+      },
+      {
+        "institution": "University of California, Berkeley",
+        "area": "Psychology",
+        "location": "Berkeley, CA, USA",
+        "studyType": "B.A.",
+        "startDate": "2008-08-01",
+        "endDate": "2012-05-01"
+      }
+    ]
+  }
+  
