@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation",
@@ -30,37 +23,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "news-early-career-award-2022-schizophrenia-international-research-society",
-          title: 'Early Career Award - 2022 Schizophrenia International Research Society.',
-          description: "",
-          section: "News",},{id: "news-poster-finalist-for-the-abstract-titled-improved-individualized-identification-of-schizophrenia-and-clinical-high-risk-for-psychosis-when-combining-cognition-with-natural-language-processing-at-the-schizophrenia-international-research-society-congress",
-          title: 'Poster Finalist for the abstract titled, Improved individualized identification of schizophrenia and clinical...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-presented-my-work-on-the-clinical-utility-of-combining-linguistic-features-with-cognition-across-the-psychosis-spectrum-at-the-computational-psychiatry-course-in-new-york",
-          title: 'Presented my work on the clinical utility of combining linguistic features with cognition...',
-          description: "",
-          section: "News",},{id: "news-i-was-invited-to-give-a-guest-talk-at-columbia-university-on-my-work-linking-the-reliability-of-processing-naturalistic-auditory-information-with-language-and-thought-disorder-across-the-psychosis-spectrum-thank-you-gaurav-patel-for-the-invitation-and-insightful-discussions",
-          title: 'I was invited to give a guest talk at Columbia University on my...',
-          description: "",
-          section: "News",},{id: "news-invited-to-give-three-guest-lectures-for-master-39-s-level-course-on-quot-introduction-to-multivariate-and-neuroimaging-methods-quot",
-          title: 'Invited to give three guest lectures for Master&amp;#39;s-level course on &amp;quot;Introduction to multivariate...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_5/";
-            },},{id: "news-travel-award-2023-society-of-biological-psychiatry",
-          title: 'Travel Award - 2023 Society of Biological Psychiatry.',
-          description: "",
-          section: "News",},{id: "news-it-was-a-pleasure-presenting-recent-work-from-two-projects-at-the-international-conference-on-early-intervention-in-mental-health-in-lausanne",
-          title: 'It was a pleasure presenting recent work from two projects at the International...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_8/";
-            },},{id: "news-i-am-excited-to-announce-that-i-have-been-selected-to-participate-in-the-2024-career-development-institute-for-psychiatry-cdi-further-details-about-this-exciting-two-year-career-enhacement-opportunity-for-early-stage-clinical-scientists-are-available-here",
-          title: 'I am excited to announce that I have been selected to participate in...',
-          description: "",
-          section: "News",},{id: "projects-photography",
+            },{id: "projects-photography",
           title: 'Photography',
           description: "Selected work",
           section: "Projects",handler: () => {
