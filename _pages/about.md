@@ -6,7 +6,7 @@ subtitle: Assistant Professor &mdash; <a href="https://icahn.mssm.edu/about/depa
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: https://avatars.githubusercontent.com/u/13004398
   image_circular: true # crops the image to make it circular
   more_info: >
 
