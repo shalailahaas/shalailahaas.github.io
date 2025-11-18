@@ -7,7 +7,7 @@ subtitle: Assistant Professor &mdash; <a href="https://icahn.mssm.edu/about/depa
 profile:
   align: right
   image: https://avatars.githubusercontent.com/u/13004398
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
